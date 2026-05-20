@@ -2,7 +2,7 @@
 
 # JavaScript30 — 30 Vanilla JavaScript Projects
 
-Starter files and completed solutions for the **JavaScript30 30 Day Challenge** by Wes Bos.
+Starter files and completed solutions for the **JavaScript30 30 Day Challenge**.
 
 JavaScript30 is a free course focused on building **30 practical vanilla JavaScript projects in 30 days**. Each project helps improve core frontend skills including DOM manipulation, events, CSS variables, array methods, local storage, canvas, speech recognition, video controls, and browser APIs.
 
